@@ -1,5 +1,7 @@
 # Typescript Guidelines
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/unional/typescript-guidelines.svg)](https://greenkeeper.io/)
+
 This is a guideline on how to write effective TypeScript with the least effort.
 It touch on coding style, linting, to recommendation on writing good typings and writing TypeScript code.
 
